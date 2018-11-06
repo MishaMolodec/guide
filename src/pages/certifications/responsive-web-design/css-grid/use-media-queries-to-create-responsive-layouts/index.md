@@ -2,7 +2,18 @@
 title: Use Media Queries to Create Responsive Layouts
 ---
 ## Use Media Queries to Create Responsive Layouts
+Warning spoiler
 
+    
+    
+      grid-template-areas:
+        "header header"
+        "advert content"
+        "footer footer";
+    
+   
+    
+   
 This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
 <a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
